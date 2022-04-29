@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nossa Primeira App</string>
+    <string name="bt_users">Users</string>
+    <string name="bt_todo">To Dos</string>
+    <string name="bt_album">Albums</string>
+    <string name="bt_photo">Photos</string>
+    <string name="bt_post">Posts</string>
+    <string name="bt_comment">Comments</string>
+    <string name="turma">Users</string>
+    <string name="Ltodos">To dos</string>
+    <string name="LAlbum">Albums</string>
+    <string name="Lposts">Posts</string>
+    <string name="Lphotos">Posts</string>
+    <string name="Lcomments">comments</string>
+    <string name="Lmenutext">Menu</string>
+</resources>
